@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+.component__wrapper {
+  width: 700px;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.loading {
+  position: absolute;
+  padding: 10px 20px;
+  background-color: #6cb1c9;
+  border-radius: 15px;
+  color: #ffffff;
+  z-index: 999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.error {
+  position: absolute;
+  padding: 10px 20px;
+  background-color: #ee6c6c;
+  border-radius: 15px;
+  color: #ffffff;
+  z-index: 999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
