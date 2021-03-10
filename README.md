@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/saostn9h2a6cj2bt?svg=true)](https://ci.appveyor.com/project/shayu78/ra-use-json-fetch)
 useJsonFetch
 ===
 
