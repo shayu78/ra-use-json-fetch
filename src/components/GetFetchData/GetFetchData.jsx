@@ -3,7 +3,7 @@ import useJsonFetch from '../../hooks/useJsonFetch';
 
 export default function GetFetchData() {
   const url = `${process.env.REACT_APP_SERVER_URL}data`;
-  const[{ data, loading, error }] = useJsonFetch(url, 9000);
+  const [{ data, loading, error }] = useJsonFetch(url);
 
   return (
     <React.Fragment>
