@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-use-json-fetch/static/css/main.613801df.chunk.css",
+    "main.js": "/ra-use-json-fetch/static/js/main.1d33cacb.chunk.js",
+    "main.js.map": "/ra-use-json-fetch/static/js/main.1d33cacb.chunk.js.map",
+    "runtime-main.js": "/ra-use-json-fetch/static/js/runtime-main.d5700f2e.js",
+    "runtime-main.js.map": "/ra-use-json-fetch/static/js/runtime-main.d5700f2e.js.map",
+    "static/js/2.01b12c8d.chunk.js": "/ra-use-json-fetch/static/js/2.01b12c8d.chunk.js",
+    "static/js/2.01b12c8d.chunk.js.map": "/ra-use-json-fetch/static/js/2.01b12c8d.chunk.js.map",
+    "static/js/3.519028cd.chunk.js": "/ra-use-json-fetch/static/js/3.519028cd.chunk.js",
+    "static/js/3.519028cd.chunk.js.map": "/ra-use-json-fetch/static/js/3.519028cd.chunk.js.map",
+    "index.html": "/ra-use-json-fetch/index.html",
+    "static/css/main.613801df.chunk.css.map": "/ra-use-json-fetch/static/css/main.613801df.chunk.css.map",
+    "static/js/2.01b12c8d.chunk.js.LICENSE.txt": "/ra-use-json-fetch/static/js/2.01b12c8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5700f2e.js",
+    "static/js/2.01b12c8d.chunk.js",
+    "static/css/main.613801df.chunk.css",
+    "static/js/main.1d33cacb.chunk.js"
+  ]
+}
